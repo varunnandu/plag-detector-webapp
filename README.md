@@ -1,4 +1,4 @@
-# team-204
-Team repo for Team 204 (Section 2, Team 4)
+# Plag Detector WebAPP
+Read the installation instructions to clone the repo locally and run it.
 
-This repository is for project work related to Plagiarism Detection System
+It uses jplag to find differences between similar code bases.
